@@ -1,3 +1,2 @@
 # Salah-mate
-command line program to find the accurate prayer times
-
+GUI program to find the accurate prayer times anywhere in the world
