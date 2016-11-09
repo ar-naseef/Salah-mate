@@ -1,4 +1,4 @@
 # Salah-mate
 gui-library => 
-⋅⋅*tkinter
+  *tkinter
 GUI program to find the accurate prayer times anywhere in the world
