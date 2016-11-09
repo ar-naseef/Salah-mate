@@ -1,7 +1,7 @@
 # Salah-Mate
 
-1. First ordered list item
-2. Another item
-  * Unordered sub-list. 
+  * library used - tkinter 
 
 ###### GUI program to find the accurate prayer times anywhere in the world
+
+  * screenshot
