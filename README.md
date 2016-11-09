@@ -1,3 +1,4 @@
 # Salah-mate
-command line program to find the accurate prayer times
-
+gui-library => 
+⋅⋅*tkinter
+GUI program to find the accurate prayer times anywhere in the world
