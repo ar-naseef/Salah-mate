@@ -29,7 +29,7 @@ or install with pip
 $ pip install python-tk
 ```
 
-#### Downloading and running
+#### Download and run
 
 Download and extract or clone [Salah-Mate](https://github.com/ar-naseef/Salah-mate) from github.
 * clone
