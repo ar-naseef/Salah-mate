@@ -1,8 +1,7 @@
 # Salah-Mate
+  GUI program to find the accurate prayer times anywhere in the world
 
   * library used - [tkinter](https://wiki.python.org/moin/TkInter)
-
-###### GUI program to find the accurate prayer times anywhere in the world
 
   * screenshot
 
